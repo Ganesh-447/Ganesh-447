@@ -25,7 +25,7 @@ Welcome to my GitHub profile. I'm a versatile software tester with experience in
 
 ## Projects
 
-### Project 2: Web Automation
+### Project 1: Web Automation using Selenium with Python
   
   This project showcases a Hybrid Automation Framework incorporating Model-Driven Development (MDD), Test-Driven Development (TDD), and Data-Driven Testing (DDT) methodologies. The framework is designed using the Page Object Model for enhanced maintainability and scalability.
 
