@@ -76,8 +76,8 @@ This project focuses on automating API testing for the Restful Booker app, allow
 
 **Project Structure:**
 - **src:** Contains the source code for the API automation framework.
-  - **constants:** Stores URLs and other constants used in the tests.
-  - **utils:** Includes utilities such as request wrappers for sending HTTP requests and handling responses.
+- **constants:** Stores URLs and other constants used in the tests.
+- **utils:** Includes utilities such as request wrappers for sending HTTP requests and handling responses.
 - **test:** Contains the test cases for the API endpoints.
 - **conftest:** Configures test environments and fixtures.
 
