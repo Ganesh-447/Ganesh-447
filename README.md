@@ -25,7 +25,7 @@ Welcome to my GitHub profile. I'm a versatile software tester with experience in
 
 ## Projects
 
-- **Hybrid Automation Framework**
+### Project 2: Web Automation
   
   This project showcases a Hybrid Automation Framework incorporating Model-Driven Development (MDD), Test-Driven Development (TDD), and Data-Driven Testing (DDT) methodologies. The framework is designed using the Page Object Model for enhanced maintainability and scalability.
 
@@ -60,7 +60,7 @@ Welcome to my GitHub profile. I'm a versatile software tester with experience in
 
 ### Project 2: API Automation
 
-This project focuses on automating API testing for the Restful Booker app, allowing users to perform booking, retrieving information, updating, and deleting data using authorization, used all HTTP methods.
+This project focuses on automating API testing for the Restful Booker app, allowing users to perform booking, retrieving information, updating, and deleting data using authorization, used Request Module with python.
 
 **Key Features:**
 - **Technologies/Libraries Used:**
