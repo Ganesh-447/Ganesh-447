@@ -1,14 +1,14 @@
 <font color="green"># Hi there, I'm Ganesh! 👋</font>
 
-Welcome to my GitHub profile. I'm a versatile Software Developer Engineer Test(SDET) with experience in developing and maintaining frameworks,experienced in both manual and automation testing. I have a strong background in Python automation and hands-on experience in manual testing. I'm well-versed in agile methodology, participating in daily scrum calls and contributing to test planning and documentation using tools like Jira and Confluence.
+Welcome to my GitHub profile. I'm a experienced SDET proficient in Python automation, manual testing, SQL, and API testing. Skilled in framework development and maintenance, with expertise in Git and GitLab. Strong background in Agile methodology, contributing to test planning and documentation using Jira and Confluence. Exceptional debugging skills to troubleshoot complex issues effectively.
 
 ## About Me
 
-- 🔭 I have experience in both manual and automation testing, with a focus on delivering high-quality software products.
-- 🌱 I'm continuously learning and refining my testing skills to adapt to the ever-changing software development landscape.
-- 💼 I have experience working in agile environments, participating in daily scrum calls, and contributing to test planning and documentation.
-- 🎓 I hold a Bachelor's degree in Electronics and Communication Engineering.
-- 💬 Feel free to reach out to me if you have any questions about software testing, automation, or agile methodology!
+- 🔭 Dedicated to delivering high-quality software products with a focus on continuous learning and refinement of testing skills.
+- 🌱 Proficient in Python automation, manual testing, SQL, and API testing.
+- 💼 Skilled in framework development and maintenance, with expertise in Git and GitLab.
+- 🎓 Strong background in Agile methodology, contributing to test planning and documentation using Jira and Confluence.
+- 💬 Exceptional debugging skills to troubleshoot complex issues effectively.
 
 ## Key Skills
 
