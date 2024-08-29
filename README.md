@@ -1,6 +1,6 @@
 <font color="green"># Hi there , I'm Ganesh! 👋</font>
 
-Welcome to my GitHub profile. I'm an experienced SDET proficient in Python automation, manual testing, SQL, and API testing. Skilled in framework development and maintenance, with expertise in Git and GitLab. Strong background in Agile methodology, contributing to test planning and documentation using Jira and Confluence. Familiar with web technologies and web applications. Exceptional debugging skills to troubleshoot complex issues effectively.
+Welcome to my GitHub profile. I'm an experienced SDET proficient in Python automation, manual testing, SQL, and API testing. Skilled in framework development and maintenance, with expertise in Git and GitLab. Strong background in Agile methodology, contributing to test planning and documentation using Jira and Confluence. Familiar with web technologies and web applications. Exceptional debugging skills to troubleshoot complex issues effectively
 
 # About Me
 
