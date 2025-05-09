@@ -16,7 +16,7 @@ Welcome to my GitHub profile. I'm an experienced SDET proficient with 3.6 years 
 - **Automation Testing**: Proficient in Python automation using tools like Selenium WebDriver for web testing and API testing frameworks.
 - **Agile Methodology**: Familiar with agile principles and practices, participating in daily stand-ups, sprint planning, and retrospective meetings.
 - **Tools & Technologies**:
-  - **Python and JavaScript Programming**: Skilled in Python and JavaScirpt for automation scripting and test development.
+  - **Python Programming**: Experience in Python for automation scripting and test development.
   - **API Testing**: Experienced in testing RESTful APIs using Python libraries such as requests.
   - **Selenium WebDriver**: Proficient in automating web browsers for testing web applications.
   - **SQL**: Familiar with querying databases using SQL for data validation in testing.
